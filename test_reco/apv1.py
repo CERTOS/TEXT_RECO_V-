@@ -9,7 +9,7 @@ Original file is located at
 
 import cv2
 
-img = cv2.imread("test2.jpeg")
+img = cv2.imread("images.jpg")
 
 !sudo apt install tesseract-ocr
 !pip install pytesseract
